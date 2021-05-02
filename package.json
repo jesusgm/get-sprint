@@ -1,6 +1,6 @@
 {
   "name": "get-sprint",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A function to retrieve a sprint of a date given ",
   "main": "index.js",
   "dependencies": {},
