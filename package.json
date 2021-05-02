@@ -1,0 +1,31 @@
+{
+  "name": "get-sprint",
+  "version": "1.0.0",
+  "description": "A function to retrieve a sprint of a date given ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "np": "^7.5.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "npm test -- --watch",
+    "release": "np"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusgm/get-sprint.git"
+  },
+  "keywords": [
+    "scrum",
+    "sprint",
+    "getSprint"
+  ],
+  "author": "Jesús Gándara Martínez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesusgm/get-sprint/issues"
+  },
+  "homepage": "https://github.com/jesusgm/get-sprint#readme"
+}
